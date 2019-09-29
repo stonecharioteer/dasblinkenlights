@@ -1,0 +1,4 @@
+Click==7.0
+gunicorn==19.9.0
+mote==0.0.4
+pyserial==3.4
